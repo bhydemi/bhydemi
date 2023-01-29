@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/bhydemi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=030A0D&background=BCC5FFE1&center=true&vCenter=true&multiline=true&width=640&height=100&lines=I+am+Yaqoob+Abdulhakeem+Omotolani+;A+Freelance+Data+Engineer%2C+;With+strong+interest+in+AI+%2F+CV" alt="Typing SVG" />
+    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=030A0D&background=BCC5FFE1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I+am+Yaqoob+Abdulhakeem+Omotolani+;A+Freelance+Data+Engineer%2C+;With+strong+interest+in+AI+(+CV+%26+Recommender+Systems)" alt="Typing SVG" />
 </a>
  
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)                                  
