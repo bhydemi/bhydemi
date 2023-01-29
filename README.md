@@ -1,11 +1,19 @@
+**All Time**
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  Visitor count<br>
+  2023 Visitor count<br>
   <img src="https://profile-counter.glitch.me/bhydemi/count.svg" />
 </p>
+
+![](https://giphy.com/gifs/eminem-rap-god-3ohs7XWx4zTkL3SKFW)
+
+
+![](https://media0.giphy.com/media/3ohs7XWx4zTkL3SKFW/giphy.gif)
+
 
 <!--
 **bhydemi/bhydemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
