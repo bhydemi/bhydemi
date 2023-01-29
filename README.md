@@ -1,5 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bhydemi/count.svg" />
+</p>
+
 <!--
 **bhydemi/bhydemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
