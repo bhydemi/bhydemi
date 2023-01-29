@@ -1,6 +1,8 @@
+# <p align="right">  **I :heart: Music, Code & Tensors** </p>
+ 
 **All Time**
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)                                     I :heart: Tensors
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)                                  
 
 <a href=#><img src="contributions.svg"></a>
 
