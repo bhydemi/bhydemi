@@ -1,11 +1,10 @@
 # <p align="right">  **I :heart: Music, Code & Tensors** </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)     
 
 <p align="center">
-<a href="https://github.com/bhydemi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=030A0D&background=BCC5FFE1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I+am+Yaqoob+Abdulhakeem+Omotolani+;A+Freelance+Data+Engineer%2C+;With+strong+interest+in+AI+(+CV+%26+Recommender+Systems)" alt="Typing SVG" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FCF7F9&background=94C53EE1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I+am+Yaqoob+Abdulhakeem+Omotolani+;A+Freelance+Data+Engineer+%26+Data+Mentor%2C+;With+strong+interest+in+AI+(+CV+%26+Recommender+Systems)" alt="Typing SVG" /></a>
  
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)                                  
+                             
 
 <a href=#><img src="contributions.svg"></a>
 
@@ -22,7 +21,7 @@
 </a> -->
 
 <a href="https://github.com/bhydemi">
-    <img src="https://github-stats-alpha.vercel.app/api?username=bhydemi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=bhydemi&cc=94C53EE1&tc=fff&ic=fff&bc=0000">
 </a>
 
 </p>
