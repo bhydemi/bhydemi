@@ -9,8 +9,6 @@
   <img src="https://profile-counter.glitch.me/bhydemi/count.svg" />
 </p>
 
-![](https://giphy.com/gifs/eminem-rap-god-3ohs7XWx4zTkL3SKFW)
-
 
 ![](https://media0.giphy.com/media/3ohs7XWx4zTkL3SKFW/giphy.gif)
 
