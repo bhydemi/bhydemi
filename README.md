@@ -5,9 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=030A0D&background=BCC5FFE1&center=true&vCenter=true&multiline=true&width=640&height=100&lines=I+am+Yaqoob+Abdulhakeem+Omotolani+;A+Freelance+Data+Engineer%2C+;With+strong+interest+in+AI+%2F+CV" alt="Typing SVG" />
 </a>
  
-**All Time**
-
- 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)                                  
 
 <a href=#><img src="contributions.svg"></a>
