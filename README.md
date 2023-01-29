@@ -2,6 +2,7 @@
  
 **All Time**
 
+ 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)                                  
 
 <a href=#><img src="contributions.svg"></a>
@@ -11,14 +12,28 @@
   <img src="https://profile-counter.glitch.me/bhydemi/count.svg" />
 </p>
 
+<p align="center">
+ 
+ 
 <!-- <a href="https://github.com/bhydemi">
     <img src="https://github-readme-stats.vercel.app/api?username=bhydemi&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
 </a> -->
 
-<a href="https://github.com/drkostas">
-    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://github.com/bhydemi">
+    <img src="https://github-stats-alpha.vercel.app/api?username=bhydemi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
+</p>
+
+<details>
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhydemi&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhydemi&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhydemi&theme=dracula)
 
 ![](https://media0.giphy.com/media/3ohs7XWx4zTkL3SKFW/giphy.gif)
 
