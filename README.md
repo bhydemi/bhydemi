@@ -31,10 +31,10 @@
 <br>
 My Github Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhydemi&theme=zenburn) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhydemi&theme=vue) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhydemi&theme=zenburn) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhydemi&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhydemi&theme=vue) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhydemi&theme=vue)
 
 ![](https://media0.giphy.com/media/3ohs7XWx4zTkL3SKFW/giphy.gif)
 
