@@ -4,7 +4,6 @@
   
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FCF7F9&background=94C53EE1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I+am+Yaqoob+Abdulhakeem+Omotolani+;An+End-to-End+Freelance+Data+Expert+%26+Mentor%2C+;With+strong+interest+in+AI+(CV+%26+Recommender+Systems)" alt="Typing SVG" /></a>
-
                            
 <a href=#><img src="contributions.svg"></a>
 
