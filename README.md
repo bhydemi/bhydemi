@@ -22,7 +22,6 @@
 </a>
 </p>
 
-
 <details>
 <summary>📈 Stats</summary>
 <br>
