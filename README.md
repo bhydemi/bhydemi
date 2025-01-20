@@ -7,7 +7,7 @@
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  2023 Visitor Count <br>
+  2025 Visitor Count <br>
   <img src="https://profile-counter.glitch.me/bhydemi/count.svg" />
 </p>
 
